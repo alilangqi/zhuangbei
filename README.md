@@ -4,9 +4,14 @@
 
 一、实验工具获取途径
 
-本实验利用“墨子·个人版（windows）”、“墨子·AI开发包（windows）”。下载地址：http://www.hs-defense.com/col.jsp?id=105 下载两个软件后，分别按照安装手册进行安装。
+本实验利用“墨子·个人版（windows）”、“墨子·AI开发包（windows）”。下载地址：http://www.hs-defense.com/col.jsp?id=105 
+下载两个软件后，分别按照安装手册进行安装。
 
-二、实验代码
+二、想定文件
+
+
+
+实验代码
 
 实验代码文件
 
